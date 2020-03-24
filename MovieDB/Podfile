@@ -1,0 +1,13 @@
+platform :ios, '11.0'
+use_frameworks!
+
+target 'MovieDB' do
+    pod 'SnapKit'
+    pod 'SDWebImage'
+    pod 'lottie-ios'
+end
+
+target 'MovieDBTests' do
+    pod 'lottie-ios', '~> 2.5.0'
+end
+
