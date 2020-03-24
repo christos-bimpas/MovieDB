@@ -17,7 +17,7 @@ class MovieDBViewModel {
     
     //You can get your api key here https://developers.themoviedb.org/3/getting-started/introduction
     
-    var apiKey: String? = "a958639c02dfa3b7b4dedd5b32f98226"
+    var apiKey: String? = nil
     
     // MARK: - Constants
     
